@@ -1,0 +1,45 @@
+stages:
+  prepare_data:
+    cmd: python scripts/prepare.py
+    deps:
+    - scripts/prepare.py
+    - data/passwords_raw.csv
+    outs:
+    - data/passwords.csv
+
+  split_data:
+    cmd: python scripts/split.py
+    deps:
+    - scripts/split.py
+    - data/passwords.csv
+    outs:
+    - data/train.csv
+    - data/test.csv
+
+  train_model:
+    cmd: python scripts/train.py
+    deps:
+    - scripts/train.py
+    - data/train.csv
+    params:
+    - ngrams.min
+    - ngrams.max
+    - model
+    outs:
+    - models/pipeline.joblib
+
+  evaluate_model:
+    cmd: python scripts/evaluate.py
+    deps:
+    - scripts/evaluate.py
+    - models/pipeline.joblib
+    - data/test.csv
+artifacts:
+  passwords_model:
+    path: models/pipeline.joblib
+    type: model
+metrics:
+- dvclive/metrics.json
+plots:
+- dvclive/plots/metrics:
+    x: step
