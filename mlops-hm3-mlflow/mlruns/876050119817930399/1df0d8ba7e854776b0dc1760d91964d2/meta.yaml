@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/876050119817930399/1df0d8ba7e854776b0dc1760d91964d2/artifacts
+end_time: 1752447703462
+entry_point_name: ''
+experiment_id: '876050119817930399'
+lifecycle_stage: active
+run_id: 1df0d8ba7e854776b0dc1760d91964d2
+run_name: calm-rook-557
+run_uuid: 1df0d8ba7e854776b0dc1760d91964d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447698405
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

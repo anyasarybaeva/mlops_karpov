@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/916047367199275473/ec9658450e6349db859b4dce2dc1d127/artifacts
+end_time: 1752447159585
+entry_point_name: ''
+experiment_id: '916047367199275473'
+lifecycle_stage: active
+run_id: ec9658450e6349db859b4dce2dc1d127
+run_name: tasteful-snake-880
+run_uuid: ec9658450e6349db859b4dce2dc1d127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447159552
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

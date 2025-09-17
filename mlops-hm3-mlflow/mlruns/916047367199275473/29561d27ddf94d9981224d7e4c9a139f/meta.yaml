@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/916047367199275473/29561d27ddf94d9981224d7e4c9a139f/artifacts
+end_time: 1752327801022
+entry_point_name: ''
+experiment_id: '916047367199275473'
+lifecycle_stage: active
+run_id: 29561d27ddf94d9981224d7e4c9a139f
+run_name: secretive-hen-503
+run_uuid: 29561d27ddf94d9981224d7e4c9a139f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752327796049
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

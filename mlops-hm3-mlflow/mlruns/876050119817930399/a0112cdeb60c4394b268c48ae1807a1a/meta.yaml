@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/876050119817930399/a0112cdeb60c4394b268c48ae1807a1a/artifacts
+end_time: 1752336736056
+entry_point_name: ''
+experiment_id: '876050119817930399'
+lifecycle_stage: active
+run_id: a0112cdeb60c4394b268c48ae1807a1a
+run_name: fearless-ram-726
+run_uuid: a0112cdeb60c4394b268c48ae1807a1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752336731174
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/916047367199275473/90249b2e82b04a0185085711b0b98aef/artifacts
+end_time: 1752447334493
+entry_point_name: ''
+experiment_id: '916047367199275473'
+lifecycle_stage: active
+run_id: 90249b2e82b04a0185085711b0b98aef
+run_name: casual-shrew-927
+run_uuid: 90249b2e82b04a0185085711b0b98aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447324358
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

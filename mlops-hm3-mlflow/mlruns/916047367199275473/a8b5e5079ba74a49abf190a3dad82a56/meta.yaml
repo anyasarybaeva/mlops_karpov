@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/916047367199275473/a8b5e5079ba74a49abf190a3dad82a56/artifacts
+end_time: 1752447342920
+entry_point_name: ''
+experiment_id: '916047367199275473'
+lifecycle_stage: active
+run_id: a8b5e5079ba74a49abf190a3dad82a56
+run_name: overjoyed-cod-879
+run_uuid: a8b5e5079ba74a49abf190a3dad82a56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447336232
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

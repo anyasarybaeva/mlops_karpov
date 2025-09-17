@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/876050119817930399/790b1f13ea754221a65980491ff5ada3/artifacts
+end_time: 1752332575600
+entry_point_name: ''
+experiment_id: '876050119817930399'
+lifecycle_stage: active
+run_id: 790b1f13ea754221a65980491ff5ada3
+run_name: intelligent-stag-153
+run_uuid: 790b1f13ea754221a65980491ff5ada3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752332570724
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

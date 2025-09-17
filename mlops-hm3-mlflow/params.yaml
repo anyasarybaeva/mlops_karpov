@@ -1,0 +1,6 @@
+model: ridge
+ngrams:
+  min: 1
+  max: 1
+
+  

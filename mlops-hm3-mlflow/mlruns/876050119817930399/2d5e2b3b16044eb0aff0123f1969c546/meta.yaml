@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/876050119817930399/2d5e2b3b16044eb0aff0123f1969c546/artifacts
+end_time: 1752447610499
+entry_point_name: ''
+experiment_id: '876050119817930399'
+lifecycle_stage: active
+run_id: 2d5e2b3b16044eb0aff0123f1969c546
+run_name: melodic-bee-221
+run_uuid: 2d5e2b3b16044eb0aff0123f1969c546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447600718
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

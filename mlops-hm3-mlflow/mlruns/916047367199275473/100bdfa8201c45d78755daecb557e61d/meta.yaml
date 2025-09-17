@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/916047367199275473/100bdfa8201c45d78755daecb557e61d/artifacts
+end_time: 1752331337251
+entry_point_name: ''
+experiment_id: '916047367199275473'
+lifecycle_stage: active
+run_id: 100bdfa8201c45d78755daecb557e61d
+run_name: luxuriant-doe-571
+run_uuid: 100bdfa8201c45d78755daecb557e61d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331332263
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

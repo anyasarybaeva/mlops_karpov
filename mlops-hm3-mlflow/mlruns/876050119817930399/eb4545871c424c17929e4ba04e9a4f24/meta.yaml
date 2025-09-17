@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/876050119817930399/eb4545871c424c17929e4ba04e9a4f24/artifacts
+end_time: 1752447545280
+entry_point_name: ''
+experiment_id: '876050119817930399'
+lifecycle_stage: active
+run_id: eb4545871c424c17929e4ba04e9a4f24
+run_name: indecisive-lark-230
+run_uuid: eb4545871c424c17929e4ba04e9a4f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447540104
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

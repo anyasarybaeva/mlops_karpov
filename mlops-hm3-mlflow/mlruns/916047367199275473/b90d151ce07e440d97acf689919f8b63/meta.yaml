@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/916047367199275473/b90d151ce07e440d97acf689919f8b63/artifacts
+end_time: 1752447192933
+entry_point_name: ''
+experiment_id: '916047367199275473'
+lifecycle_stage: active
+run_id: b90d151ce07e440d97acf689919f8b63
+run_name: rumbling-ray-446
+run_uuid: b90d151ce07e440d97acf689919f8b63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447187556
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/876050119817930399/c8153b4b327341cca2fe0b4fae3f7608/artifacts
+end_time: 1752447567185
+entry_point_name: ''
+experiment_id: '876050119817930399'
+lifecycle_stage: active
+run_id: c8153b4b327341cca2fe0b4fae3f7608
+run_name: rambunctious-elk-606
+run_uuid: c8153b4b327341cca2fe0b4fae3f7608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447561959
+status: 3
+tags: []
+user_id: robot-mlflow@team.karpov.courses
